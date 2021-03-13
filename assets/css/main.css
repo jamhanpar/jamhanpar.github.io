@@ -2101,6 +2101,10 @@ input, select, textarea {
 						margin: 0.25em 0 0 0;
 					}
 
+					.contact-info {
+						font-size: 0.75em;
+					}
+
 				@media screen and (max-width: 980px) {
 
 					#main > .panel.intro {
